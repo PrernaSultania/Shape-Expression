@@ -1,0 +1,6 @@
+numpy
+tabulate
+JPype1
+pandas
+scikit-learn
+networkx
